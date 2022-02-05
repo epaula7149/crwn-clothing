@@ -31,7 +31,6 @@ componentDidMount() {
             ...snapshot.data()
           }
         }); 
-        console.log(this.state);
       });
       
     } else {
