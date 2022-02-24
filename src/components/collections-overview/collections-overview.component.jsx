@@ -9,7 +9,6 @@ import './collections-overview.styles.scss';
 
 
 const CollectionsOverview = ({ collections }) => {
-    console.log('EPA **********collections=', collections);
     return (
     <div className='collections-overview'>
       {collections.map(({ id, ...otherCollectionProps }) => (
