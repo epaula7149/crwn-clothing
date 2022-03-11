@@ -10,5 +10,4 @@ const HomePage = () => (
     </HomePageContainer>
 );
 
-
 export default HomePage;
