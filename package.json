@@ -23,6 +23,8 @@
         "stripe": "6.28.0"
     },
     "devDependencies": {
-        "concurrently": "^4.0.1"
+        "@wojtekmaj/enzyme-adapter-react-17": "^0.6.6",
+        "concurrently": "^4.0.1",
+        "enzyme": "^3.11.0"
     }
 }
